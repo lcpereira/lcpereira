@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/leandro9893" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/leandro9893" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro9893" />
   </a>
 
-  <a href="https://www.instagram.com/lcpereira.dev/" target="_blank" alt="Instagram">
+  <a href="https://www.instagram.com/lcpereira.dev/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lcpereira.dev/"/>
   </a>
 </p>  
