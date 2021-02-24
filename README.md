@@ -33,6 +33,12 @@ As a front-end developer and a brief stint in the Quality Assurance area, I like
 
 <br>
 
+![](https://img.shields.io/badge/Toolkit-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Toolkit-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Toolkit-Grunt-informational?style=flat&logo=grunt&logoColor=white&color=4AB197)
+
+<br>
+
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Codecov-informational?style=flat&logo=codecov&logoColor=white&color=4AB197)
