@@ -54,7 +54,7 @@ As a front-end developer and a brief stint in the Quality Assurance area, I like
 
 ## &#x1f4c8; GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpereira&layout=compact&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpereira&layout=compact&theme=vue-dark" />
 </p>
 
 </br>
