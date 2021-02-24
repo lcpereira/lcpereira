@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="left"> 
+  Olá meu nome é Leandro, sou desenvolvedor de <strong>Front-End</strong> e trabalho com Angular e React na <strong>Dextra</strong>.
+</p>
 
-<!--
-**lcpereira/lcpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Habilidades: <strong>HTML, CSS, JavaScript, Sass, Angular 1 and Angular 2+.</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  Ferramentas: <strong>VSCode, Gulp, Git and GitHub.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/leandro9893" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro9893" />
+  </a>
+
+  <a href="https://www.instagram.com/lcpereira.dev/" target="_blank" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lcpereira.dev/"/>
+  </a>
+</p>  
