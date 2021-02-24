@@ -45,6 +45,7 @@ As a front-end developer and a brief stint in the Quality Assurance area, I like
 
 <br>
 
+![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat&logo=travis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
