@@ -4,6 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lcpereira.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lcpereira.dev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/lcpereira_dev)
+ &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lcpereira.lcpereira)
 
 As a front-end developer and a brief stint in the Quality Assurance area, I like to program focusing on code and system quality. I also venture to make some guesses in the design and usability of what I deliver.
 
@@ -56,7 +57,3 @@ As a front-end developer and a brief stint in the Quality Assurance area, I like
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpereira&layout=compact&theme=vue-dark" />
 </p>
-
-</br>
-
- &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lcpereira.lcpereira)
