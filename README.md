@@ -5,8 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lcpereira.dev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/lcpereira_dev)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lcpereira.lcpereira)
-
 As a front-end developer and a brief stint in the Quality Assurance area, I like to program focusing on code and system quality. I also venture to make some guesses in the design and usability of what I deliver.
 
 - 🔭 I’m currently working on [Dextra](https://www.dextra.com.br/) as front end developer.
@@ -32,5 +30,9 @@ As a front-end developer and a brief stint in the Quality Assurance area, I like
 
 **My GitHub Stats:** 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpereira&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcpereira&layout=compact&theme=slateorange" />
 </p>
+
+</br>
+
+ &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lcpereira.lcpereira)
