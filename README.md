@@ -30,6 +30,7 @@ As a front-end developer and a brief stint in the Quality Assurance area, I like
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=4AB197)
 
 <br>
 
