@@ -16,48 +16,48 @@ As a front-end developer and a brief stint in the Quality Assurance area, I like
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=8B5CF6)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=8B5CF6)
 
 <br>
 
-![](https://img.shields.io/badge/Toolkit-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Toolkit-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Toolkit-Grunt-informational?style=flat&logo=grunt&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Toolkit-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Toolkit-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Toolkit-Grunt-informational?style=flat&logo=grunt&logoColor=white&color=8B5CF6)
 
 <br>
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Codecov-informational?style=flat&logo=codecov&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Test-Codecov-informational?style=flat&logo=codecov&logoColor=white&color=8B5CF6)
 
 <br>
 
-![](https://img.shields.io/badge/Tools-VSCODE-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat&logo=travis&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-VSCODE-informational?style=flat&logo=visual-studio-code&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-TravisCI-informational?style=flat&logo=travis&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=8B5CF6)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=8B5CF6)
 
 </details>
 
