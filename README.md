@@ -8,7 +8,8 @@
 
 As a front-end developer and a brief stint in the Quality Assurance area, I like to program focusing on code and system quality. I also venture to make some guesses in the design and usability of what I deliver.
 
-- 🔭 I’m currently working on [Dextra](https://www.dextra.com.br/) as front end developer.
+- 🔭 I’m currently working on [Vizi](https://vizibr.com/) as Frontend Software Engineer.
+- :iphone: I’m currently learning React Native
 - 🌱 I’m currently learning English
 
 <br>
