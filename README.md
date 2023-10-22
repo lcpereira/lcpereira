@@ -1,4 +1,4 @@
-### :man_technologist: Hi, I am [Leandro](https://lcpereira.github.io) - Front-end developer.
+### :man_technologist: Hi, I am [Leandro](https://lcpereira.github.io) - Tech Lead.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/leandro9893)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lcpereira.github.io/)
@@ -8,8 +8,8 @@
 
 As a front-end developer and a brief stint in the Quality Assurance area, I like to program focusing on code and system quality. I also venture to make some guesses in the design and usability of what I deliver.
 
-- 🔭 I’m currently working on [Vizi](https://vizibr.com/) as Frontend Software Engineer.
-- :iphone: I’m currently learning React Native
+- 🔭 I’m currently working on [Zé Express (Ambev)](https://ze.express) as Tech Lead.
+- 🚧 I’m currently learning how to be a good tech lead
 - 🌱 I’m currently learning English
 
 <br>
