@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I’m [Leandro](https://lcpereira.github.io) — Front-End Architect @[nstech](https://nstech.com.br)  
+# 👨‍💻 Hi, I’m [Leandro](https://www.lcpereira.dev) — Front-End Architect @[nstech](https://nstech.com.br)  
 
 [LinkedIn](https://linkedin.com/in/leandro9893) • [Website](https://www.lcpereira.dev/) • [Instagram](https://instagram.com/lcpereira.dev/) • [Telegram](https://t.me/lcpereira_dev)  
 
