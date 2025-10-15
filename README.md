@@ -29,4 +29,4 @@ Passionate about **scalable design systems, clean code, DX (Developer Experience
 
 ---
 
-👉 Always open to exchange ideas about **front-end architecture, design systems and micro-frontends**.
+Always open to exchange ideas about **front-end architecture, design systems and micro-frontends**.
